@@ -80,3 +80,11 @@ docker rm <container_id>
 ```bash
 docker rmi <image_name>
 ```
+
+- Start a previous stopped container
+
+With ```docker start``` command container will be started exactly with the same configuration as it was running with before it.
+
+- Remove all stopped container
+
+``` docker container prune```
