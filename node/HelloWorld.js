@@ -1,0 +1,1 @@
+console.log("Hello world, docker with Nodejs.")
